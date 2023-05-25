@@ -1,0 +1,37 @@
+h1 {
+    font-family: sans-serif;
+}
+
+p {
+    font-family: serif;
+    font-weight: 600;
+}
+
+ul {font-family: cursive;
+}
+
+body {
+    font-size: 16px;
+    background-color: aquamarine;
+}
+
+#fruit {
+    font-size: 65;
+    color: orange;
+}
+
+.favorite_fruit {
+    background-color: yellowgreen;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#red {
+    background-color: red;
+}
+
+#brown {
+    background-color: brown;
+}
