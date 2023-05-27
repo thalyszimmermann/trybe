@@ -1,0 +1,29 @@
+h3 {
+    font-style: italic;
+    
+}
+
+div:hover {
+    border: 6px solid black;
+}
+
+#cor-primaria {
+    background-color: red;
+}
+
+#cor-secundaria {
+    background-color: #af41b3;
+}
+
+#cor-complementar {
+    background-color: violet;
+    font-size: larger;
+}
+
+#cor-escura {
+    background-color: rgb(100, 0, 0);
+}
+
+#cor-clara {
+    background-color: rgb(255, 125, 125);
+}
